@@ -1,7 +1,7 @@
 {
-  "name": "torrent-aio-bot",
+  "name": "Torrent All in 1 Bot",
   "description": "All in one bot for torrenting",
-  "repository": "https://github.com/patheticGeek/torrent-aio-bot",
+  "repository": "https://github.com/gauravtdhumal/Torrent-All-in-One",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
   "builpacks": [
     { "url": "heroku/nodejs" },
